@@ -11,7 +11,7 @@
     <mask>*.pyw</mask>
     <mask>*.py</mask>
     <mask>*config.sh</mask>
-    <mask>*.sh</mask>
     <mask>*.yml</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
