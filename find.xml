@@ -17,5 +17,6 @@
     <mask>*.sh</mask>
     <mask>*.yaml</mask>
     <mask>dev.sh</mask>
+    <mask>common.sh</mask>
   </component>
 </application>
