@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory Subset #1" />
-    <option name="FILE_MASK" value="*prod.sh" />
+    <option name="FILE_MASK" value="*secret.sh" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -17,13 +17,14 @@
     <mask>*.yml</mask>
     <mask>*.yaml</mask>
     <mask>common.sh</mask>
-    <mask>*.sh</mask>
     <mask>dev.sh</mask>
     <mask>stage.sh</mask>
     <mask>prod.sh</mask>
-    <mask>*secret.sh</mask>
+    <mask>secret.sh</mask>
+    <mask>*.sh</mask>
     <mask>*dev.sh</mask>
     <mask>*stage.sh</mask>
     <mask>*prod.sh</mask>
+    <mask>*secret.sh</mask>
   </component>
 </application>
