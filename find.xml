@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory Subset #1" />
-    <option name="defaultScopeName" value="Directory Subset #1" />
+    <option name="customScope" value="Directory Subset #3" />
+    <option name="defaultScopeName" value="Directory Subset #3" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory Subset #1" />
-    <option name="FILE_MASK" value="*secret.sh" />
+    <option name="SEARCH_SCOPE" value="Directory Subset #3" />
+    <option name="FILE_MASK" value="*.sh" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -21,10 +21,10 @@
     <mask>stage.sh</mask>
     <mask>prod.sh</mask>
     <mask>secret.sh</mask>
-    <mask>*.sh</mask>
     <mask>*dev.sh</mask>
     <mask>*stage.sh</mask>
-    <mask>*prod.sh</mask>
     <mask>*secret.sh</mask>
+    <mask>*prod.sh</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
