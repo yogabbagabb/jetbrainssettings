@@ -3,6 +3,8 @@
     <option name="customScope" value="Directory Subset #4" />
     <option name="defaultScopeName" value="Directory Subset #4" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Directory Subset #4" />
     <mask>*.css</mask>
@@ -23,5 +25,6 @@
     <mask>*secret.sh</mask>
     <mask>*prod.sh</mask>
     <mask>*.sh</mask>
+    <mask>*common.sh</mask>
   </component>
 </application>
