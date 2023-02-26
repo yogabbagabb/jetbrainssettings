@@ -3,6 +3,9 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.*compiled.yaml;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="Vagrantfilef" type="AUTO_DETECTED" />
+      <removed_mapping ext="bash" approved="true" type="Shell Script" />
+      <removed_mapping ext="sh" approved="true" type="Shell Script" />
+      <removed_mapping ext="zsh" approved="true" type="Shell Script" />
     </extensionMap>
   </component>
 </application>
