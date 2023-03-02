@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.sh" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -23,8 +24,8 @@
     <mask>*stage.sh</mask>
     <mask>*secret.sh</mask>
     <mask>*prod.sh</mask>
-    <mask>*.sh</mask>
     <mask>*common.sh</mask>
     <mask>*.yaml</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
