@@ -3,6 +3,7 @@
     <ignoreFiles list="*$py.class;*.pyc;*.pyo;*.rbc;*.yarb;*~;.*compiled.yaml;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc" />
     <extensionMap>
       <mapping pattern="Vagrantfilef" type="AUTO_DETECTED" />
+      <mapping pattern=".aahanenv" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
