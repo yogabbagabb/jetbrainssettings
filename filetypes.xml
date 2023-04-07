@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern="Vagrantfilef" type="AUTO_DETECTED" />
       <mapping pattern=".aahanenv" type="PLAIN_TEXT" />
+      <mapping ext="list" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
