@@ -17,6 +17,9 @@
   </action>
   <action id="Console.TableResult.AddColumn" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="CopyFileName">
+    <keyboard-shortcut first-keystroke="ctrl alt c" />
+  </action>
   <action id="Diff.ShowDiff" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="DisableInspection">
