@@ -96,6 +96,9 @@
   <action id="Replace">
     <keyboard-shortcut first-keystroke="shift alt r" />
   </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
   <action id="RerunTests">
     <keyboard-shortcut first-keystroke="ctrl meta r" />
   </action>
