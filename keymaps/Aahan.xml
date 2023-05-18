@@ -1,5 +1,159 @@
-<keymap version="1" name="Aahan">
+<keymap version="1" name="Aahan" parent="Mac OS X 10.5+">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="shift meta x" />
+  </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="meta alt a" />
+  </action>
+  <action id="ChangesView.AddUnversioned" />
+  <action id="ChangesView.ShelveSilently" />
+  <action id="CloseAllEditors">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
+  <action id="CommitView.SwitchToCommitDialog">
+    <keyboard-shortcut first-keystroke="shift meta k" />
+    <keyboard-shortcut first-keystroke="ctrl meta l" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="ConfigureEditorTabs">
+    <keyboard-shortcut first-keystroke="shift meta e" />
+  </action>
+  <action id="Console.TableResult.AddColumn" />
+  <action id="Console.TableResult.CompareCells" />
+  <action id="CopyPathWithLineNumber">
+    <keyboard-shortcut first-keystroke="shift meta d" />
+  </action>
+  <action id="Diagram.DeselectAll" />
+  <action id="Diff.ShowDiff" />
+  <action id="Diff.ShowSettingsPopup" />
+  <action id="DisableInspection">
+    <keyboard-shortcut first-keystroke="shift meta comma" />
+  </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta alt m" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="meta alt i" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+  <action id="EditorLineEndWithSelection">
+    <keyboard-shortcut first-keystroke="shift end" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="EditorLineStartWithSelection">
+    <keyboard-shortcut first-keystroke="shift home" />
+  </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
+  </action>
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="ctrl alt b" />
+  </action>
+  <action id="EditorToggleColumnMode" />
+  <action id="ExtractMethod" />
+  <action id="FileChooser.GotoDesktop" />
+  <action id="FileStructurePopup">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="Git.Stage.Add" />
+  <action id="Github.PullRequest.Diff.Comment.Create" />
+  <action id="GotoUrlAction" />
+  <action id="Graph.AlignNodes.Center" />
+  <action id="MaximizeEditorInSplit">
+    <keyboard-shortcut first-keystroke="shift meta h" />
+  </action>
+  <action id="MethodHierarchy" />
+  <action id="MethodHierarchy.BaseOnThisMethod" />
+  <action id="NavBar-selectHome">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl a" />
+  </action>
+  <action id="NextSplitter">
+    <keyboard-shortcut first-keystroke="alt tab" />
+    <keyboard-shortcut first-keystroke="shift meta 8" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="shift meta 0" />
+  </action>
+  <action id="PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift alt tab" />
+    <keyboard-shortcut first-keystroke="shift meta 7" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="shift meta 9" />
+  </action>
+  <action id="RecentLocations" />
+  <action id="RenameFile">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="Replace">
+    <keyboard-shortcut first-keystroke="shift alt r" />
+  </action>
+  <action id="Rerun">
+    <keyboard-shortcut first-keystroke="meta alt r" />
+  </action>
+  <action id="RerunTests">
+    <keyboard-shortcut first-keystroke="ctrl meta r" />
+  </action>
+  <action id="Resume">
+    <keyboard-shortcut first-keystroke="f9" />
+  </action>
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SaveAll" />
+  <action id="SaveAs">
+    <keyboard-shortcut first-keystroke="meta s" />
+  </action>
+  <action id="Scratch.ShowFilesPopup">
+    <keyboard-shortcut first-keystroke="shift meta y" />
+  </action>
   <action id="SelectIn">
+    <keyboard-shortcut first-keystroke="alt f1" />
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
+  <action id="SelectNextOccurrence">
+    <keyboard-shortcut first-keystroke="ctrl g" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
+  <action id="SendEOF" />
+  <action id="Space.Review.CreateDiffComment" />
+  <action id="Terminal.MoveToolWindowTabLeft">
+    <keyboard-shortcut first-keystroke="meta right" />
+  </action>
+  <action id="Terminal.MoveToolWindowTabRight">
+    <keyboard-shortcut first-keystroke="meta left" />
+  </action>
+  <action id="Terminal.NextSplitter">
+    <keyboard-shortcut first-keystroke="shift meta right" />
+  </action>
+  <action id="Terminal.PrevSplitter">
+    <keyboard-shortcut first-keystroke="shift meta left" />
+  </action>
+  <action id="ToggleMainMenuAction">
+    <keyboard-shortcut first-keystroke="shift meta s" />
+  </action>
+  <action id="UML.ShowStructure">
+    <keyboard-shortcut first-keystroke="meta f12" />
+    <keyboard-shortcut first-keystroke="meta t" />
+  </action>
+  <action id="Uml.ShowDiff" />
+  <action id="Unsplit">
+    <keyboard-shortcut first-keystroke="shift meta back_slash" />
+  </action>
+  <action id="Vcs.Push" />
+  <action id="Vcs.UpdateProject" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="hg4idea.add" />
+  <action id="openAssertEqualsDiff" />
+  <action id="org.intellij.plugins.markdown.ui.actions.styling.ToggleStrikethroughAction" />
 </keymap>
