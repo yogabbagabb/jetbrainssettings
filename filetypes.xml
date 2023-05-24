@@ -6,8 +6,8 @@
       <mapping pattern="aahan-test2" type="AUTO_DETECTED" />
       <mapping pattern=".aahanenv" type="PLAIN_TEXT" />
       <mapping ext="awsenv" type="PLAIN_TEXT" />
-      <mapping ext="j2" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
+      <mapping ext="j2" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
