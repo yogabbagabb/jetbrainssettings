@@ -24,5 +24,6 @@
     <mask>*.json</mask>
     <mask>*.yaml.j2</mask>
     <mask>*.yaml</mask>
+    <mask>classic*</mask>
   </component>
 </application>
