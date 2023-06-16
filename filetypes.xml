@@ -5,6 +5,7 @@
       <mapping pattern="Vagrantfilef" type="AUTO_DETECTED" />
       <mapping pattern="config-get-stack" type="AUTO_DETECTED" />
       <mapping pattern="aahan-test2" type="AUTO_DETECTED" />
+      <mapping pattern="CODEOWNERS" type="AUTO_DETECTED" />
       <mapping pattern=".aahanenv" type="PLAIN_TEXT" />
       <mapping ext="awsenv" type="PLAIN_TEXT" />
       <mapping ext="list" type="PLAIN_TEXT" />
