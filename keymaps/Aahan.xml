@@ -65,6 +65,9 @@
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
   <action id="Git.Stage.Add" />
+  <action id="Github.Open.In.Browser">
+    <keyboard-shortcut first-keystroke="alt g" />
+  </action>
   <action id="Github.PullRequest.Diff.Comment.Create" />
   <action id="GotoUrlAction" />
   <action id="Graph.AlignNodes.Center" />
