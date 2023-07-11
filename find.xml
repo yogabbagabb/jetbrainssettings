@@ -24,8 +24,8 @@
     <mask>*common.sh</mask>
     <mask>*.sh</mask>
     <mask>*.json</mask>
-    <mask>*.yaml.j2</mask>
     <mask>classic*</mask>
     <mask>*.yaml</mask>
+    <mask>*.yaml.j2</mask>
   </component>
 </application>
