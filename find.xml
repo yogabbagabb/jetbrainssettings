@@ -9,7 +9,6 @@
     <mask>*.html</mask>
     <mask>*.xml</mask>
     <mask>*.pyw</mask>
-    <mask>*.py</mask>
     <mask>*config.sh</mask>
     <mask>*.yml</mask>
     <mask>common.sh</mask>
@@ -27,5 +26,6 @@
     <mask>classic*</mask>
     <mask>*.yaml</mask>
     <mask>*.yaml.j2</mask>
+    <mask>*.py</mask>
   </component>
 </application>
