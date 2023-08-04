@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.yaml*" />
+    <option name="FILE_MASK" value="*.sh" />
     <mask>*.css</mask>
     <mask>*.html</mask>
     <mask>*.xml</mask>
@@ -24,12 +24,12 @@
     <mask>*secret.sh</mask>
     <mask>*prod.sh</mask>
     <mask>*common.sh</mask>
-    <mask>*.sh</mask>
     <mask>*.json</mask>
     <mask>classic*</mask>
     <mask>*.yaml</mask>
     <mask>*.yaml.j2</mask>
     <mask>*.py</mask>
     <mask>*.yaml*</mask>
+    <mask>*.sh</mask>
   </component>
 </application>
