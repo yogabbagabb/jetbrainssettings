@@ -91,6 +91,9 @@
     <keyboard-shortcut first-keystroke="ctrl right" />
     <keyboard-shortcut first-keystroke="shift meta 0" />
   </action>
+  <action id="OpenFile">
+    <keyboard-shortcut first-keystroke="alt o" />
+  </action>
   <action id="PrevSplitter">
     <keyboard-shortcut first-keystroke="shift alt tab" />
     <keyboard-shortcut first-keystroke="shift meta 7" />
